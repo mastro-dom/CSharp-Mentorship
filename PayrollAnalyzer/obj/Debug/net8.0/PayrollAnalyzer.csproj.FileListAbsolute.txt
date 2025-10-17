@@ -1,0 +1,14 @@
+C:\CSharpMentorship\PayrollAnalyzer\bin\Debug\net8.0\PayrollAnalyzer.exe
+C:\CSharpMentorship\PayrollAnalyzer\bin\Debug\net8.0\PayrollAnalyzer.deps.json
+C:\CSharpMentorship\PayrollAnalyzer\bin\Debug\net8.0\PayrollAnalyzer.runtimeconfig.json
+C:\CSharpMentorship\PayrollAnalyzer\bin\Debug\net8.0\PayrollAnalyzer.dll
+C:\CSharpMentorship\PayrollAnalyzer\bin\Debug\net8.0\PayrollAnalyzer.pdb
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\PayrollAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\PayrollAnalyzer.AssemblyInfoInputs.cache
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\PayrollAnalyzer.AssemblyInfo.cs
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\PayrollAnalyzer.csproj.CoreCompileInputs.cache
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\PayrollAnalyzer.dll
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\refint\PayrollAnalyzer.dll
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\PayrollAnalyzer.pdb
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\PayrollAnalyzer.genruntimeconfig.cache
+C:\CSharpMentorship\PayrollAnalyzer\obj\Debug\net8.0\ref\PayrollAnalyzer.dll
